@@ -13,8 +13,8 @@ I enjoy working with data, finding useful insights, and creating interactive das
  📂 Projects
 
 - 📊 Telecom Customer Churn Analysis
-- 🏦 Banking Data Analysis
-- 📈 Sales Data Analysis
+- 📈 Insurance Data Analysis
+- 🏥 Insurance Data Analysis Dashboard
 
  🌱 Currently Learning
 
